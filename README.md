@@ -5,7 +5,7 @@ This project showcases advanced UI/UX design with a cosmic theme.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Glassmorphism design with blur and transparency effects
 - Dark / Light mode toggle

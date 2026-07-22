@@ -3,7 +3,7 @@
 A modern, futuristic landing page built with pure HTML & CSS.  
 This project showcases advanced UI/UX design with a cosmic theme.
 
----
+----
 
 ##  Features
 
@@ -24,7 +24,7 @@ This project showcases advanced UI/UX design with a cosmic theme.
 - CSS Animations & Transitions
 - Font Awesome & Google Fonts
 
----
+----
 
 ##  What I Learned
 

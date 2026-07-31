@@ -38,7 +38,9 @@ http://nova-cosmic-landing-page.netlify.app/
 ---
 
 ##  Screenshots
-<img width="629" height="1280" alt="photo_2026-08-01_00-18-32" src="https://github.com/user-attachments/assets/ba477f77-4307-41a7-9388-126e443ee4db" />
-<img width="1280" height="501" alt="photo_2026-08-01_00-18-39" src="https://github.com/user-attachments/assets/4542d931-c341-42ac-b14e-bbb597ddb01d" />
+<h3>Mobile</h3>
+<img src="https://github.com/user-attachments/assets/ba477f77-4307-41a7-9388-126e443ee4db" width="250">
+<h3>Desktop</h3>
+<img src="https://github.com/user-attachments/assets/4542d931-c341-42ac-b14e-bbb597ddb01d" width="700">
 
 © 2025 NOVA — Built with Love and Creativity

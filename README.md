@@ -16,7 +16,7 @@ This project showcases advanced UI/UX design with a cosmic theme.
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - HTML5
 - CSS3

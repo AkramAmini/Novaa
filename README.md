@@ -37,4 +37,8 @@ This project showcases advanced UI/UX design with a cosmic theme.
 http://nova-cosmic-landing-page.netlify.app/
 ---
 
+##  Screenshots
+<img width="629" height="1280" alt="photo_2026-08-01_00-18-32" src="https://github.com/user-attachments/assets/ba477f77-4307-41a7-9388-126e443ee4db" />
+<img width="1280" height="501" alt="photo_2026-08-01_00-18-39" src="https://github.com/user-attachments/assets/4542d931-c341-42ac-b14e-bbb597ddb01d" />
+
 © 2025 NOVA — Built with Love and Creativity

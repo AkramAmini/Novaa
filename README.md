@@ -33,7 +33,8 @@ This project showcases advanced UI/UX design with a cosmic theme.
 - How to make a website fully responsive
 - How to manage design systems and visual consistency
 
-
+## Live Demo
+http://nova-cosmic-landing-page.netlify.app/
 ---
 
 © 2025 NOVA — Built with Love and Creativity

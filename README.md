@@ -37,4 +37,4 @@ http://nova-cosmic-landing-page.netlify.app/
 <h3>Mobile</h3>
 <img src="https://github.com/user-attachments/assets/ba477f77-4307-41a7-9388-126e443ee4db" width="250">
 
-© 2025 NOVA — Built with Love and Creativity
+

@@ -26,13 +26,6 @@ This project showcases advanced UI/UX design with a cosmic theme.
 
 ----
 
-##  What I Learned
-
-- How to create a complete landing page from scratch
-- How to use modern CSS techniques like Glassmorphism
-- How to make a website fully responsive
-- How to manage design systems and visual consistency
-
 ## Live Demo
 http://nova-cosmic-landing-page.netlify.app/
 ---
